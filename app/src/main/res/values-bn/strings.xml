@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">আবহাওয়া অ্যাপ</string>
+    <string name="fetch_weather">আবহাওয়া সংগ্রহ করুন</string>
+    <string name="view_details">বিস্তারিত দেখুন</string>
+    <string name="open_browser">ব্রাউজার খুলুন</string>
+    <string name="open_maps">মানচিত্র খুলুন</string>
+    <string name="weather_data_placeholder">আবহাওয়ার তথ্য এখানে দেখানো হবে</string>
+    <string name="fetch_all_city_weather">সব শহরের আবহাওয়া সংগ্রহ করুন</string>
+    <string name="weather">আবহাওয়া</string>
+    <string name="temperature">তাপমাত্রা</string>
+    <string name="city">শহর</string>
+    <string name="country">দেশ</string>
+    <string name="error_parsing">তথ্য বিশ্লেষণে ত্রুটি</string>
+    <string name="error_fetching">তথ্য সংগ্রহে ত্রুটি</string>
+</resources>
+
+
+
+
+

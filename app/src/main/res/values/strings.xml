@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="fetch_weather">Fetch Weather</string>
+    <string name="view_details">View Details</string>
+    <string name="open_browser">Open Browser</string>
+    <string name="open_maps">Open Maps</string>
+    <string name="weather_data_placeholder">Weather data will be shown here</string>
+    <string name="fetch_all_city_weather">Fetch All City Weather</string>
+    <string name="weather">Weather</string>
+    <string name="temperature">Temperature</string>
+    <string name="city">City</string>
+    <string name="country">Country</string>
+    <string name="error_parsing">Error parsing data</string>
+    <string name="error_fetching">Error fetching data</string>
+</resources>
+
+
+
+

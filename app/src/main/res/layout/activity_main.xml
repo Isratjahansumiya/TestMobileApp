@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <!-- Section for Fetch Weather and View Details buttons -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:background="@drawable/border">
+
+        <Button
+            android:id="@+id/buttonFetchWeather"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/fetch_weather" />
+
+        <TextView
+            android:id="@+id/textViewWeatherData"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/weather_data_placeholder"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/buttonNavigate"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/view_details" />
+    </LinearLayout>
+
+    <!-- Spacer -->
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="16dp" />
+
+    <!-- Section for Open Browser and Open Maps buttons -->
+
+    <!-- Spacer -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/border"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <Button
+            android:id="@+id/buttonOpenBrowser"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/open_browser" />
+
+        <Button
+            android:id="@+id/buttonOpenMaps"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/open_maps" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="16dp" />
+
+    <!-- TextView to display weather data -->
+
+</LinearLayout>
+
+
+
+
+

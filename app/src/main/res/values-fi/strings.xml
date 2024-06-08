@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SääApp</string>
+    <string name="fetch_weather">Hae Sää</string>
+    <string name="view_details">Näytä Yksityiskohdat</string>
+    <string name="open_browser">Avaa Selain</string>
+    <string name="open_maps">Avaa Kartat</string>
+    <string name="weather_data_placeholder">Säätiedot näytetään täällä</string>
+    <string name="fetch_all_city_weather">Hae Kaikkien Kaupunkien Sää</string>
+    <string name="weather">Sää</string>
+    <string name="temperature">Lämpötila</string>
+    <string name="city">Kaupunki</string>
+    <string name="country">Maa</string>
+    <string name="error_parsing">Virhe tietojen jäsentämisessä</string>
+    <string name="error_fetching">Virhe tietojen noutamisessa</string>
+</resources>
+
+
+
+
+
